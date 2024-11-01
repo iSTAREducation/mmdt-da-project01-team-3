@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0JSeAac7)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16516584)
 # DataAnalytics_Assignments
 
 This repo includes the assignments and lectures conducted in the Data Analytics Course. This course provides you knowledge and skills for an understanding of data manipulation, analysis, and visualization. The assignments in this repository are designed to reinforce your understanding of the concepts covered in the lectures. They will challenge you to apply your knowledge to real-world datasets, allowing you to practice data cleaning, exploratory data analysis, hypothesis testing, and predictive modeling. 
